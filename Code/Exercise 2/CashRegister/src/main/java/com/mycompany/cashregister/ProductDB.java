@@ -22,7 +22,7 @@ public class ProductDB {
     public Product GetProductInfo(int UPCCode) {
         product = null;
         try {
-            File productDatabase = new File("src/ProductDatabase.txt");
+            File productDatabase = new File(".\\CashRegister\\src\\ProductDatabase.txt");
             Scanner myReader = new Scanner(productDatabase);
 
             while (myReader.hasNextLine()) {
@@ -32,6 +32,8 @@ public class ProductDB {
                 String name = product[1];
                 double price = Double.parseDouble(product[2]);
 
+
+
                 // Get product info if UPCCode codes are equal and only return a product if it's in the database
                 if (UPCCode == UPC) {
                     this.product = new Product(UPC, name, price);
@@ -39,7 +41,7 @@ public class ProductDB {
                 }
             }
         } catch (FileNotFoundException e) {
-            System.out.println("An error occurred.");
+            System.out.println(e);
             e.printStackTrace();
         }
         return product;
