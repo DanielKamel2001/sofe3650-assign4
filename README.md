@@ -43,11 +43,11 @@ Original cash register application can be found [here.](https://github.com/jessi
     - #### [Successful Build](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Successful_Build_Ex1.png)
     - #### [Output Screenshot of Java Swing UI](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Output_Ex1.png)
    - ### [Exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/tree/main/Output%20(Build%20and%20GUI)/Exercise%202)
-      - [#### Expected Output](https://github.com/DanielKamel2001/sofe3650-assign4blob/main/README.md#expected-output-1)
-      - [#### Successful Build](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/successfulbuildex2.png)
-      - [#### Output Screenshot of Java Swing UI](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-enter%20code.png)
-      - [#### UPC 3 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc3.png)
-      - [#### UPC 4 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc4.png)
+      - #### [Expected Output](https://github.com/DanielKamel2001/sofe3650-assign4blob/main/README.md#expected-output-1)
+      - #### [Successful Build](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/successfulbuildex2.png)
+      - #### [Output Screenshot of Java Swing UI](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-enter%20code.png)
+      - #### [UPC 3 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc3.png)
+      - #### [UPC 4 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc4.png)
 
 
 
