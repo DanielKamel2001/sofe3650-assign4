@@ -21,7 +21,6 @@ Original cash register application can be found [here.](https://github.com/jessi
           - [CommonUtility.java](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%201/MyCompanyProject/SharedLibrary/src/main/java/com/mycompany/CommonUtility.java)
           - [SharedLibrary pom.xml](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%201/MyCompanyProject/SharedLibrary/pom.xml)
         - [MyCompanyProject pom.xml](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%201/MyCompanyProject/pom.xml)
-      - [Output Screenshot](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%201/Output%20(Screenshot%202021-11-20%20003156).png)
 
 
   - ### [Exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/tree/main/Code/Exercise%202)
