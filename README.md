@@ -39,12 +39,39 @@ Original cash register application can be found [here.](https://github.com/jessi
 
 - ## Assignment Overview
 - ## Output
-  - ### Expected Output
-  - ### Output Screenshot
+  - ### Exercise 1
+    - #### Successful Build
+    - #### Output Screenshot of Java Swing UI
+   - ### Exercise 2
+      - #### Expected Output
+      - #### Successful Build
+      - #### Output Screenshots of Java Swing UI and various UPC items
 
 
 ---
 # Assignment Overview
-brief assignment description
+The purpose of this assignment is to familarize oneself with Maven and Java Swing by following a tutorial posted to youtube for Exercise 1, then applying the learned concepts to the cash register program from assignment 3 in Exercise 2.  Exercise 2 required one to convert the original cash register program to a Maven-compatible modular system, and modifying the pom.xml to introduce module dependencies. Exercise 2 also implemented a Java Swing GUI for 
 
 ## Output
+### Exercise 1
+Successful build of Exercise 1:
+
+![Successful build screenshot of exercise 1](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Successful_Build_Ex1.png)
+
+GUI output image for Exercise 1:
+
+![GUI output image for exercise 1](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Output_Ex1.png)
+
+### Exercise 2
+Successful build of Exercise 2:
+
+![Successful build screenshot of exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/successfulbuildex2.png)
+
+GUI output images for Exercise 2:
+![GUI output image for exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-enter%20code.png)
+![GUI output image for UPC 3](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc3.png)
+![GUI output image for UPC 4](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc4.png)
+
+
+
+
