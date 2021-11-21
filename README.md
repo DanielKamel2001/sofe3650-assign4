@@ -37,15 +37,18 @@ Original cash register application can be found [here.](https://github.com/jessi
         - [ScannerUtil.java](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%202/Scanner/src/main/java/com/mycompany/scanner/ScannerUtil.java)
         - [Scanner pom.xml](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Code/Exercise%202/Scanner/pom.xml)
 
-- ## Assignment Overview
-- ## Output
-  - ### Exercise 1
-    - #### Successful Build
-    - #### Output Screenshot of Java Swing UI
-   - ### Exercise 2
-      - #### Expected Output
-      - #### Successful Build
-      - #### Output Screenshots of Java Swing UI and various UPC items
+- ## [Assignment Overview](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/README.md#assignment-overview-1)
+- ## [Output](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/README.md#output-1)
+  - ### [Exercise 1](https://github.com/DanielKamel2001/sofe3650-assign4/tree/main/Output%20(Build%20and%20GUI)/Exercise%201)
+    - #### [Successful Build](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Successful_Build_Ex1.png)
+    - #### [Output Screenshot of Java Swing UI](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Output_Ex1.png)
+   - ### [Exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/tree/main/Output%20(Build%20and%20GUI)/Exercise%202)
+      - [#### Expected Output](https://github.com/DanielKamel2001/sofe3650-assign4blob/main/README.md#expected-output-1)
+      - [#### Successful Build](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/successfulbuildex2.png)
+      - [#### Output Screenshot of Java Swing UI](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-enter%20code.png)
+      - [#### UPC 3 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc3.png)
+      - [#### UPC 4 entered](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/output-upc4.png)
+
 
 
 ---
@@ -63,6 +66,14 @@ GUI output image for Exercise 1:
 ![GUI output image for exercise 1](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%201/Output_Ex1.png)
 
 ### Exercise 2
+#### Expected outputs:
+```
+UPC Code 1 entered and search clicked: Product{UPCCode=1, name='Abida', price=500.0}
+UPC Code 2 entered and search clicked: Product{UPCCode=2, name='Adris', price=500.0}
+UPC Code 3 entered and search clicked: Product{UPCCode=3, name='Daniel', price=500.0}
+UPC Code 4 entered and search clicked: Product{UPCCode=4, name='Jesse', price=500.0}
+```
+
 Successful build of Exercise 2:
 
 ![Successful build screenshot of exercise 2](https://github.com/DanielKamel2001/sofe3650-assign4/blob/main/Output%20(Build%20and%20GUI)/Exercise%202/successfulbuildex2.png)
