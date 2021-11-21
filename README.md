@@ -53,7 +53,7 @@ Original cash register application can be found [here.](https://github.com/jessi
 
 ---
 # Assignment Overview
-The purpose of this assignment is to familarize oneself with Maven and Java Swing by following a tutorial posted to youtube for Exercise 1, then applying the learned concepts to the cash register program from assignment 3 in Exercise 2.  Exercise 2 required one to convert the original cash register program to a Maven-compatible modular system, and modifying the pom.xml to introduce module dependencies. Exercise 2 also implemented a Java Swing GUI for 
+The purpose of this assignment is to familarize oneself with Maven and Java Swing by following a tutorial posted to youtube for Exercise 1, then applying the learned concepts to the cash register program from assignment 3 in Exercise 2.  Exercise 2 required one to convert the original cash register program to a Maven-compatible modular system, and modifying the pom.xml to introduce module dependencies. Exercise 2 also implemented a Java Swing GUI for the cash register, which had a text entry field for a scanner.
 
 ## Output
 ### Exercise 1
