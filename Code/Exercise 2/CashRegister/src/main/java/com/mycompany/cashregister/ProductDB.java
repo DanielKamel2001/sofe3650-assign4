@@ -22,7 +22,7 @@ public class ProductDB {
     public Product GetProductInfo(int UPCCode) {
         product = null;
         try {
-            File productDatabase = new File(".\\CashRegister\\src\\ProductDatabase.txt");
+            File productDatabase = new File("src/ProductDatabase.txt");
             Scanner myReader = new Scanner(productDatabase);
 
             while (myReader.hasNextLine()) {
